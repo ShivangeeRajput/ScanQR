@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 
-<img src="https://github.com/ShivangeeRajput/ScanQR/assets/100294737/37e43e6d-707a-49b6-be81-9d63d1ad3f5b.gif" height="500">
+https://github.com/ShivangeeRajput/ScanQR/assets/100294737/ba731d88-41a3-4242-bf3b-551b6de690c9
 
 ## Screenshots
 <p>
